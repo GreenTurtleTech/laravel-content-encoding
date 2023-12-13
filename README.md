@@ -1,14 +1,14 @@
 # Laravel Content Encoding Middleware
 
-## About
-
 Middleware that encodes response content.
 
 Reduces data sent out, reduces bandwidth used.
 
 ## Installation
 
-Require the `` package in your composer.json and update your dependencies:
+```text
+composer require green-turtle/content-encoding
+```
 
 ## Configuration
 
